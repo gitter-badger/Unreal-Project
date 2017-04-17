@@ -1,5 +1,4 @@
 # Unreal-Project (Temp Name)
-
 [![Join the chat at https://gitter.im/H8-Bit/Unreal-Project](https://badges.gitter.im/H8-Bit/Unreal-Project.svg)](https://gitter.im/H8-Bit/Unreal-Project?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Plans:
